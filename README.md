@@ -17,6 +17,8 @@
     > python manage.py createsuperuser
 * To check the data please visit to admin panel of django by providing username and password
     > localhost:8000/admin/
+* To run the testcases
+    > python manage.py test
 
-### Please provide the delivery date before changing the status of the PO to completed 
+### Please provide the delivery date before changing the status of the PO to completed using admin panel as it is not mentioned any endpoint to change the delivery date
 ### Avg response time is in seconds
